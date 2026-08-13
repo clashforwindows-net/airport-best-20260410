@@ -300,6 +300,7 @@ A：访问 ipleak.net，查看 DNS 服务器是否来自你的运营商，若是
 - **Clash 教程**：https://clashhub.net
 - **用户社区**：https://bbs.clashhub.net
 - **客户端下载**：https://clash-for-windows.net
+- **VPSVIP 官网**：https://vpsvip.net（VPS 推荐）
 
 ---
 
